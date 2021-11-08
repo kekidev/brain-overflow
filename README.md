@@ -1,1 +1,1 @@
-# Solving codewars & Hackerrank prolems
+# Solving codewars & Hackerrank problems
